@@ -1,26 +1,16 @@
-<!doctype html>
-<html>
-<head>
-<title>오픈소스 4주차 과제 </title>
-<meta charset = "urf-8">
-<style>
-	a{
-	color : blue;
-	}
-</style>
-</head>
+#OpenSource project 
 
-<body>
-<h1> 팀명 </h1>
-<p> T2(미정) </p>
+##팀명-_T2_(미정)
 
-<h2> 팀원 </h2>
-<ol>
-	<li><a href="">김민수</a></li>
-	<li><a href="">문희상</a></li>
-	<li><a href="">최수용</a></li>
-	<li><a href="">황지원</a></li>
-	<li><a href="">이의형</a>(작성자)</li>
-</ol>
-</body>
-</html>
+##팀원
+1. [김문수]()
+2. [문희상](https://github.com/sang0429/sang0429.github.io)
+3. [최수용](https://github.com/dpfprtus/dpfprtus.github.io)
+4. [황지원](https://github.com/Jiwon-h/Jiwon-h.github.io)
+5. [이의형]()()
+
+##작성자 소개글
+안녕하세요! 전 소프트웨어 19학번 _이의형_입니다.
+이렇게 모이게 된 것도 인연인데,
+같이 열심해 해봅시다!
+
