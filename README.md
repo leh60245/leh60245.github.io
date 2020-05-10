@@ -12,3 +12,6 @@
 
 ## 작성자 웹 사이트
 [클릭](https://leh60245.github.io/introduce_myself.html)
+
+## 6th 실행 이미지
+![android_image](https://github.com/leh60245/leh60245.github.io/blob/master/6th_image2.png)
